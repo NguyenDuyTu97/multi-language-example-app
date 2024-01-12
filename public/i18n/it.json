@@ -1,0 +1,8 @@
+{
+  "hello": "Hello Italian",
+  "title": "Applicazione multilingue",
+  "label": "Selezionare un'altra lingua",
+  "about": "Su di me",
+  "home": "Casa",
+  "user": "Selezionare un'altra: {{name}}"
+}
