@@ -6,6 +6,7 @@ export const Home = () => {
     <main>
       <h1>{t("title")}</h1>
       <span>{t("label")} </span>
+      <p>Test 1</p>
     </main>
   );
 };
